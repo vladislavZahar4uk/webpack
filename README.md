@@ -2,7 +2,7 @@
 
 
 ## Structure
-`/src/` - Folder for source code
+`/src/`  - Folder for source code
 
 `/dist/` - Collected project
 ***
