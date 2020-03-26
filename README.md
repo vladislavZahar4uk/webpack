@@ -2,9 +2,9 @@
 
 
 ## Structure
-`/src/` - folder for source code
+`/src/` - Folder for source code
 
-`/dist/` - collected project
+`/dist/` - Collected project
 ***
 
 ## Installation
