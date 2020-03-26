@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <%= _.template(require('./../includes/head.html').default)() %>
+  <body>
+      <%= _.template(require('./../includes/header.html').default)() %>
+
+      <main class="main"> 
+          <i class="icon-rock-n-roll"></i>
+      </main>
+
+      <%= _.template(require('./../includes/footer.html').default)() %>
+      <%= _.template(require('./../includes/scripts.html').default)() %>
+  </body>
+</html>
